@@ -4,4 +4,4 @@
 
 </div align="center">
 
-<sub> 　  　  　  　  　  　  　  　  　  　  　  　  　  　  　  　  　  　 　 [![](https://readme-typing-svg.herokuapp.com?font=Grenze_Gotisch&weight=175&size=10&pause=1000&color=C6B9A7&vCenter=true&width=435&lines=The+devil+couldn't+reach+me.;I+am+the+devil.)](https://git.io/typing-svg)</sub>
+<sub> 　  　  　  　  　  　  　  　  　  　  [![](https://readme-typing-svg.herokuapp.com?font=Grenze_Gotisch&weight=175&size=10&pause=1000&color=C6B9A7&vCenter=true&width=435&lines=The+devil+couldn't+reach+me.;I+am+the+devil.)](https://git.io/typing-svg)</sub>
