@@ -4,4 +4,4 @@
 
 </div align="center">
 
-<sub> 　  　  　  　  　  　  　  　  　  　    [![](https://readme-typing-svg.herokuapp.com?font=Grenze_Gotisch&weight=175&size=10&pause=0&color=FFF7B5&vCenter=true&width=435&lines=Souly,+warum+bist+du+so+gemein?)](https://git.io/typing-svg)</sub>
+<sub> 　  　  　  　  　  　  　  　  　  [![](https://readme-typing-svg.herokuapp.com?font=Grenze_Gotisch&weight=175&size=10&pause=0&color=FFF7B5&vCenter=true&width=435&lines=Souly,+warum+bist+du+so+gemein?)](https://git.io/typing-svg)</sub>
