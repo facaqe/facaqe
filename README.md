@@ -4,4 +4,4 @@
 
 </div align="center">
 
-<sub> 　  　  　  　  　  　  　  　  　  　    　  　[![](https://readme-typing-svg.herokuapp.com?font=Grenze_Gotisch&weight=175&size=10&pause=0&color=C6B9A7&vCenter=true&width=435&lines=Spürst+du+es+auch?;Spürst+du+die+Ficks,+die+ich+geb'+auf+die+andern?)](https://git.io/typing-svg)</sub>
+<sub> 　  　  　  　  　  　  　  　  　  　    　  　[![](https://readme-typing-svg.herokuapp.com?font=Grenze_Gotisch&weight=175&size=10&pause=0&color=C6B9A7&vCenter=true&width=435&lines=Is+it+better+to+speak+or+to+die?)](https://git.io/typing-svg)</sub>
