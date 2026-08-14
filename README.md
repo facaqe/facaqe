@@ -5,8 +5,8 @@
 <table>
     <tr>
       <td>
-          ${\textsf{\color{#767676}𖣐 }}$
-     ${\textsf{\color{#eeece4}is it wickedness?}}$　 
+          ${\textsf{\color{#eeece4}𖣐 }}$
+     ${\textsf{\color{#767676}is it wickedness?}}$　 
    ${\textsf{\color{#eeece4} is  it  weakness?}}$ <br>
       </td>
     </tr>
